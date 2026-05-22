@@ -1,0 +1,1000 @@
+  at java.lang.Thread.run(Thread.java:745)
+2026-05-22T14:05:08Z 203.0.113.99 HEAD /metrics 200 226ms
+2026/05/21 21:02:50 10.0.0.7 HEAD /static/app.js 201 0.118s
+2026-05-22T14:37:18Z 10.0.0.7 HEAD /api/orders 200 0.116s
+1779385434 172.16.0.1 PATCH /api/products 400 0.235s
+  at java.lang.Thread.run(Thread.java:745)
+2026/05/22 17:39:40 172.16.0.1 PATCH /api/logout 201 0.334s
+{"timestamp": 1779397190, "ip": "192.168.1.42", "method": "DELETE", "path": "/api/products", "status": 200, "response_time": "0.189s"}
+2026-05-22T13:15:15Z 203.0.113.99 HEAD /api/users/12 200 97ms
+2026-05-22T20:09:32Z 203.0.113.99 HEAD /metrics 200 176ms
+2026-05-22T15:43:53Z 203.0.113.45 PUT /api/users/12 200 0.288s
+1779411260 203.0.113.99 DELETE /api/login 200 0.375s
+1779454649 203.0.113.45 PUT /api/logout 503 80ms
+2026-05-22T11:28:09Z 203.0.113.99 DELETE /static/style.css 200 249
+2026/05/22 17:04:09 192.168.1.42 HEAD /admin/dashboard 200 146
+2026-05-22T06:50:41Z 203.0.113.45 GET /admin/dashboard 401 144ms
+2026-05-22T17:18:10Z 172.16.0.1 HEAD /metrics 200 92
+2026/05/22 18:27:15 198.51.100.12 PUT /health 200 0.188s
+2026-05-22T17:28:57Z 192.168.1.42 GET /admin/dashboard 200 45ms
+1779458885 10.0.0.7 PUT /metrics 401 485
+22-May-2026 01:14:17 172.16.0.1 DELETE /static/app.js 200 234ms
+2026-05-22T04:31:28Z 198.51.100.12 PATCH /api/logout 200 13ms
+2026-05-22T17:02:30Z 192.168.1.42 PATCH /api/logout 200 77
+2026/05/22 10:14:22 10.0.0.7 DELETE /api/search 200 0.057s
+1779451713 192.168.1.42 HEAD /static/app.js 503 0.040s
+2026-05-22T02:22:41Z 10.0.0.7 PATCH /health 200 103ms
+{"timestamp": 1779451033, "ip": "192.168.1.42", "method": "GET", "path": "/static/app.js", "status": 503, "response_time": "438ms"}
+1779418667 203.0.113.45 GET /api/login 200 0.140s
+22-May-2026 19:23:09 198.51.100.12 HEAD /admin/dashboard 200 39
+2026-05-22T14:21:42Z 192.168.1.42 GET /static/style.css 200 480ms
+2026-05-22T16:50:33Z 192.168.1.42 PATCH /api/users/12 200 492
+2026/05/21 21:21:51 192.168.1.42 DELETE /static/app.js 200 277ms
+2026-05-22T02:08:20Z 203.0.113.45 POST /static/app.js 200 244ms
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+2026-05-21T22:10:07Z 10.0.0.7 PATCH /api/products 200 188ms
+2026-05-22T06:55:36Z 198.51.100.12 HEAD /api/products 200 14
+2026-05-22T18:46:21Z 192.168.1.42 POST /api/products 200 0.374s
+2026-05-22T13:37:59Z 10.0.0.7 HEAD /static/app.js 401 268ms
+1779448733 192.168.1.42 GET /api/products/42 204 92
+22-May-2026 06:40:29 192.168.1.42 GET /api/users/12 500 363ms
+2026/05/22 09:40:15 203.0.113.45 POST /api/users 200 470ms
+2026-05-22T12:46:48Z 203.0.113.99 GET /api/products/42 204 327
+2026-05-22T17:09:39Z 10.0.0.7 DELETE /api/users 200 0.173s
+{"timestamp": 1779440586, "ip": "10.0.0.7", "method": "PUT", "path": "/api/login", "status": 204, "response_time": "0.197s"}
+{"timestamp": 1779456431, "ip": "172.16.0.1", "method": "PUT", "path": "/api/notifications", "status": 204, "response_time": "126ms"}
+2026-05-22T17:09:17Z 172.16.0.1 PUT /static/app.js 200 0.491s
+2026-05-22T17:27:33Z 172.16.0.1 POST /static/style.css 503 0.029s
+{"timestamp": 1779404179, "ip": "198.51.100.12", "method": "PATCH", "path": "/api/users/12", "status": 200, "response_time": "32"}
+2026/05/22 18:37:27 198.51.100.12 HEAD /admin/dashboard 500 0.339s
+corrupted data at offset 438
+22-May-2026 16:45:46 203.0.113.99 PUT /metrics 200 0.170s
+2026-05-22T06:30:04Z 203.0.113.45 HEAD /admin/dashboard 404 217
+2026-05-22T03:17:47Z 203.0.113.45 PATCH /static/style.css 200 248ms
+{"timestamp": 1779454939, "ip": "203.0.113.99", "method": "POST", "path": "/static/app.js", "status": 200, "response_time": "0.335s"}
+{"timestamp": 1779397370, "ip": "172.16.0.1", "method": "POST", "path": "/api/search", "status": 200, "response_time": "253"}
+2026-05-22T07:20:25Z 203.0.113.99 PATCH /api/logout 201 206ms
+2026-05-22T17:50:03Z 192.168.1.42 DELETE /api/logout 200 500ms
+{"timestamp": 1779387563, "ip": "10.0.0.7", "method": "DELETE", "path": "/static/app.js", "status": 200, "response_time": "0.302s"}
+22-May-2026 17:49:08 203.0.113.45 PATCH /health 403 0.432s
+{"timestamp": 1779432171, "ip": "198.51.100.12", "method": "DELETE", "path": "/static/app.js", "status": 200, "response_time": "235ms"}
+2026-05-22T17:50:35Z 192.168.1.42 POST /api/login 200 365ms
+2026-05-22T09:25:59Z 203.0.113.45 GET /api/logout 400 309
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+1779377587 172.16.0.1 PUT /api/search 200 224
+2026/05/22 15:36:26 10.0.0.7 DELETE /api/logout 200 182
+1779439647 203.0.113.45 POST /static/style.css 200 298
+corrupted data at offset 538
+1779392779 172.16.0.1 DELETE /api/products/42 200 0.175s
+{"timestamp": 1779413500, "ip": "192.168.1.42", "method": "DELETE", "path": "/api/users", "status": 201, "response_time": "36ms"}
+{"timestamp": 1779459787, "ip": "192.168.1.42", "method": "GET", "path": "/api/logout", "status": 200, "response_time": "20ms"}
+2026-05-22T09:56:44Z 10.0.0.7 DELETE /admin/dashboard 200 320
+{"timestamp": 1779447865, "ip": "172.16.0.1", "method": "GET", "path": "/static/style.css", "status": 200, "response_time": "0.292s"}
+22-May-2026 01:10:13 198.51.100.12 HEAD /api/notifications 200 164
+2026-05-22T15:31:11Z 198.51.100.12 GET /api/products/42 200 269
+{"timestamp": 1779413370, "ip": "203.0.113.45", "method": "GET", "path": "/api/orders", "status": 503, "response_time": "245"}
+2026-05-22T14:01:17Z 203.0.113.99 PUT /static/style.css 400 0.390s
+2026/05/22 02:51:07 10.0.0.7 GET /api/products 403 301
+2026-05-21T21:05:57Z 172.16.0.1 POST /health 200 153
+2026-05-22T09:44:58Z 198.51.100.12 POST /api/users/12 200 218ms
+22-May-2026 13:29:40 203.0.113.45 GET /api/users/12 200 166
+1779424897 172.16.0.1 DELETE /admin/dashboard 200 0.354s
+2026-05-22T13:43:16Z 172.16.0.1 GET /admin/dashboard 200 400ms
+2026-05-22T13:48:01Z 198.51.100.12 PATCH /api/products 503 0.105s
+2026-05-22T13:24:10Z 10.0.0.7 PUT /api/users 503 293ms
+{"timestamp": 1779419489, "ip": "192.168.1.42", "method": "PATCH", "path": "/api/products", "status": 200, "response_time": "0.177s"}
+1779386934 192.168.1.42 DELETE /health 200 332ms
+2026-05-21T22:27:17Z 10.0.0.7 GET /metrics 204 320ms
+1779416002 203.0.113.45 PUT /api/notifications 200 229ms
+21-May-2026 22:47:31 10.0.0.7 HEAD /api/logout 200 98
+
+22-May-2026 10:39:43 172.16.0.1 GET /api/logout 200 154ms
+2026-05-22T15:19:06Z 203.0.113.99 PATCH /static/app.js 400 111ms
+2026-05-22T16:14:58Z 192.168.1.42 GET /api/login 204 0.377s
+1779436579 203.0.113.99 DELETE /api/products 200 262ms
+22-May-2026 04:08:46 172.16.0.1 GET /api/users/12 200 304
+{"timestamp": 1779435162, "ip": "172.16.0.1", "method": "PATCH", "path": "/api/users", "status": 204, "response_time": "0.241s"}
+2026-05-22T20:20:13Z 203.0.113.45 HEAD /api/notifications 200 0.240s
+2026-05-22T16:59:45Z 172.16.0.1 DELETE /admin/dashboard 200 426
+
+2026-05-21T23:11:33Z 203.0.113.45 PATCH /api/notifications 503 0.436s
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+{"timestamp": 1779420147, "ip": "203.0.113.45", "method": "GET", "path": "/api/logout", "status": 200, "response_time": "234"}
+2026-05-22T19:45:57Z 198.51.100.12 POST /admin/dashboard 200 292ms
+{"timestamp": 1779455954, "ip": "203.0.113.45", "method": "GET", "path": "/static/app.js", "status": 400, "response_time": "159"}
+1779449197 203.0.113.45 POST /health 200 316
+2026-05-22T17:08:49Z 172.16.0.1 DELETE /api/products/42 500 0.141s
+{"timestamp": 1779427789, "ip": "203.0.113.99", "method": "DELETE", "path": "/api/notifications", "status": 200, "response_time": "180"}
+1779416419 172.16.0.1 POST /admin/dashboard 200 0.124s
+corrupted data at offset 584
+{"timestamp": 1779410016, "ip": "203.0.113.99", "method": "HEAD", "path": "/api/login", "status": 200, "response_time": "0.072s"}
+{"timestamp": 1779450089, "ip": "192.168.1.42", "method": "PATCH", "path": "/health", "status": 200, "response_time": "83ms"}
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+2026-05-22T11:22:07Z 203.0.113.45 HEAD /api/users/12 401 0.340s
+22-May-2026 13:39:34 203.0.113.45 PATCH /api/users 200 0.319s
+21-May-2026 22:34:46 192.168.1.42 HEAD /admin/dashboard 401 237ms
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+  at java.lang.Thread.run(Thread.java:745)
+2026-05-22T02:16:16Z 203.0.113.45 PATCH /static/app.js 204 0.096s
+2026-05-22T08:21:16Z 198.51.100.12 POST /api/logout 200 140ms
+1779454942 203.0.113.99 PATCH /api/login 200 0.179s
+1779436720 203.0.113.45 PUT /api/logout 503 0.247s
+2026/05/22 03:30:41 203.0.113.99 PUT /api/users 503 14
+{"timestamp": 1779441417, "ip": "192.168.1.42", "method": "PATCH", "path": "/admin/dashboard", "status": 200, "response_time": "472ms"}
+2026-05-22T01:39:59Z 10.0.0.7 PATCH /api/products 200 379ms
+22-May-2026 11:55:21 172.16.0.1 DELETE /api/users 200 0.074s
+1779392253 10.0.0.7 PATCH /api/products/42 200 0.144s
+1779460659 172.16.0.1 HEAD /api/notifications 200 68ms
+2026-05-22T17:03:13Z 203.0.113.99 HEAD /api/orders 503 0.283s
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+2026-05-22T12:33:30Z 203.0.113.99 PUT /static/style.css 200 65
+2026-05-22T11:16:46Z 198.51.100.12 PUT /static/style.css 200 247
+1779387158 192.168.1.42 GET /api/products 503 464
+1779409133 203.0.113.99 HEAD /metrics 200 0.366s
+{"timestamp": 1779419357, "ip": "203.0.113.45", "method": "PUT", "path": "/api/users", "status": 200, "response_time": "121ms"}
+2026-05-22T19:57:09Z 172.16.0.1 PATCH /static/app.js 200 0.145s
+2026-05-22T11:48:41Z 198.51.100.12 GET /api/users 204 412
+{"timestamp": 1779443187, "ip": "10.0.0.7", "method": "PATCH", "path": "/api/logout", "status": 400, "response_time": "85"}
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+2026-05-22T09:22:32Z 10.0.0.7 GET /static/app.js 401 77ms
+2026-05-22T00:35:32Z 192.168.1.42 POST /admin/dashboard 200 0.375s
+2026/05/22 10:39:30 203.0.113.45 PATCH /api/logout 500 475
+1779432662 192.168.1.42 GET /health 400 261
+2026-05-22T17:59:34Z 172.16.0.1 PATCH /api/login 200 309
+1779463013 198.51.100.12 PUT /health 200 230ms
+22-May-2026 17:28:31 198.51.100.12 HEAD /api/notifications 200 0.445s
+1779413019 192.168.1.42 PUT /api/orders 200 88
+2026-05-21T22:35:59Z 192.168.1.42 GET /api/orders 200 76
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+21-May-2026 23:20:38 172.16.0.1 HEAD /api/search 200 157
+2026-05-22T10:16:49Z 10.0.0.7 POST /static/app.js 200 442
+{"timestamp": 1779401146, "ip": "10.0.0.7", "method": "DELETE", "path": "/api/notifications", "status": 200, "response_time": "324"}
+2026-05-22T11:01:34Z 203.0.113.99 HEAD /api/products 200 0.354s
+2026-05-22T17:17:13Z 198.51.100.12 HEAD /api/orders 200 389ms
+2026-05-22T05:26:20Z 203.0.113.45 PUT /api/login 200 492
+2026-05-22T00:08:39Z 198.51.100.12 GET /static/app.js 200 258
+2026-05-22T01:35:02Z 198.51.100.12 GET /api/products/42 200 0.342s
+2026-05-21T21:30:01Z 203.0.113.45 PATCH /api/users 200 164ms
+2026-05-22T04:17:07Z 192.168.1.42 DELETE /admin/dashboard 200 76ms
+{"timestamp": 1779434797, "ip": "172.16.0.1", "method": "GET", "path": "/api/orders", "status": 401, "response_time": "31ms"}
+2026/05/22 06:42:47 203.0.113.45 HEAD /static/app.js 200 68ms
+2026/05/22 07:27:10 203.0.113.99 PUT /api/users/12 200 0.129s
+1779452291 203.0.113.99 PUT /api/logout 200 96ms
+2026-05-22T18:09:09Z 172.16.0.1 PUT /admin/dashboard 503 340ms
+2026-05-22T00:34:28Z 10.0.0.7 HEAD /api/users/12 200 247
+1779435927 198.51.100.12 HEAD /static/app.js 503 0.433s
+2026-05-22T07:39:52Z 203.0.113.99 PUT /api/search 200 0.182s
+2026-05-21T21:46:33Z 172.16.0.1 GET /static/app.js 401 314
+2026/05/22 09:42:50 203.0.113.99 GET /health 404 174
+2026-05-22T19:23:44Z 203.0.113.45 GET /api/search 403 53
+2026-05-22T02:21:22Z 203.0.113.45 DELETE /metrics 200 0.188s
+{"timestamp": 1779406312, "ip": "198.51.100.12", "method": "GET", "path": "/api/search", "status": 200, "response_time": "58"}
+2026-05-22T02:27:30Z 203.0.113.99 PATCH /api/notifications 200 0.296s
+22-May-2026 13:10:26 203.0.113.45 POST /static/style.css 201 202
+{"timestamp": 1779388119, "ip": "203.0.113.99", "method": "HEAD", "path": "/static/app.js", "status": 404, "response_time": "226"}
+2026-05-22T03:49:23Z 10.0.0.7 PUT /api/search 200 125ms
+{"timestamp": 1779385816, "ip": "198.51.100.12", "method": "HEAD", "path": "/metrics", "status": 200, "response_time": "182ms"}
+2026-05-22T00:18:15Z 203.0.113.99 PATCH /api/search 404 0.224s
+2026-05-22T19:40:50Z 198.51.100.12 PUT /api/search 201 0.125s
+{"timestamp": 1779417600, "ip": "10.0.0.7", "method": "PUT", "path": "/static/app.js", "status": 500, "response_time": "0.236s"}
+1779460563 10.0.0.7 PATCH /api/login 401 0.324s
+2026-05-22T13:29:02Z 198.51.100.12 GET /api/products 200 473
+1779385001 10.0.0.7 DELETE /api/products/42 500 0.036s
+2026-05-22T05:24:30Z 192.168.1.42 PUT /api/users/12 400 342ms
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+{"timestamp": 1779389069, "ip": "203.0.113.99", "method": "DELETE", "path": "/health", "status": 200, "response_time": "473ms"}
+2026/05/22 18:58:33 198.51.100.12 PATCH /api/orders 200 157ms
+22-May-2026 15:27:50 203.0.113.45 GET /api/users/12 400 18
+2026-05-22T13:39:19Z 172.16.0.1 DELETE /api/users 200 105
+2026/05/22 19:48:07 192.168.1.42 PATCH /metrics 200 0.282s
+2024-03-15T14:23:01Z 192.168.1.42 GET
+2026-05-22T14:20:45Z 172.16.0.1 GET /api/products/42 200 405
+2026-05-21T23:36:44Z 172.16.0.1 PATCH /api/products/42 400 0.417s
+1779431659 10.0.0.7 GET /admin/dashboard 204 244ms
+2026-05-22T03:59:05Z 172.16.0.1 PATCH /api/orders 503 28
+2026-05-22T17:06:06Z 192.168.1.42 HEAD /api/products/42 200 0.190s
+1779406370 10.0.0.7 DELETE /admin/dashboard 200 483ms
+2026-05-22T06:44:42Z 10.0.0.7 PATCH /api/products 200 0.171s
+22-May-2026 06:38:14 203.0.113.99 DELETE /api/products/42 200 190
+2026-05-22T11:45:27Z 192.168.1.42 GET /static/app.js 200 393
+2026-05-21T23:50:13Z 198.51.100.12 HEAD /api/search 200 408
+1779459111 192.168.1.42 PATCH /api/login 200 495ms
+2026/05/22 05:13:02 172.16.0.1 HEAD /api/products 200 0.023s
+2026/05/21 23:14:12 172.16.0.1 HEAD /health 200 0.150s
+2026-05-22T16:52:41Z 203.0.113.45 POST /admin/dashboard 200 0.407s
+21-May-2026 21:58:08 198.51.100.12 PUT /api/products 401 368
+2026-05-22T08:37:14Z 192.168.1.42 POST /api/search 200 194
+1779446514 198.51.100.12 POST /static/style.css 403 377
+1779443533 198.51.100.12 GET /api/login 503 248
+2026-05-22T17:28:53Z 198.51.100.12 HEAD /static/style.css 200 76ms
+2026/05/22 00:04:58 10.0.0.7 POST /api/products/42 500 491
+{"timestamp": 1779383891, "ip": "10.0.0.7", "method": "HEAD", "path": "/metrics", "status": 200, "response_time": "330ms"}
+2026-05-22T10:36:49Z 198.51.100.12 POST /api/login 200 182
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+
+{"timestamp": 1779426910, "ip": "203.0.113.99", "method": "POST", "path": "/api/search", "status": 200, "response_time": "264"}
+22-May-2026 19:22:12 203.0.113.45 POST /api/search 400 47
+2024-03-15T14:23:01Z 192.168.1.42 GET
+1779394705 198.51.100.12 POST /api/products/42 401 0.370s
+2026-05-22T14:39:59Z 198.51.100.12 PATCH /api/users/12 200 248ms
+2026-05-22T03:22:32Z 203.0.113.45 PATCH /api/orders 200 0.452s
+22-May-2026 03:54:56 10.0.0.7 DELETE /metrics 200 460ms
+2026/05/22 07:23:02 10.0.0.7 POST /static/style.css 200 315
+2026-05-22T09:17:27Z 192.168.1.42 DELETE /api/login 403 0.189s
+
+2026-05-22T05:06:39Z 172.16.0.1 GET /api/orders 200 432
+2026-05-21T23:29:54Z 192.168.1.42 DELETE /api/products/42 204 183ms
+2026/05/22 06:02:37 192.168.1.42 GET /api/users 200 0.404s
+2026/05/21 23:45:54 198.51.100.12 PUT /api/login 200 163
+{"timestamp": 1779421117, "ip": "203.0.113.45", "method": "HEAD", "path": "/static/style.css", "status": 200, "response_time": "179"}
+1779427509 203.0.113.99 HEAD /static/app.js 200 345
+21-May-2026 21:38:34 203.0.113.45 POST /metrics 200 327ms
+2026-05-21T21:10:05Z 203.0.113.99 GET /api/logout 200 221
+2026/05/22 15:00:35 203.0.113.45 HEAD /admin/dashboard 200 0.264s
+1779422478 172.16.0.1 POST /health 404 356
+{"timestamp": 1779436980, "ip": "198.51.100.12", "method": "DELETE", "path": "/api/logout", "status": 503, "response_time": "0.283s"}
+22-May-2026 01:23:06 203.0.113.99 DELETE /api/products/42 200 417
+2026-05-22T10:10:26Z 198.51.100.12 DELETE /api/orders 400 0.389s
+corrupted data at offset 180
+1779433753 203.0.113.99 DELETE /api/logout 200 297
+2026-05-22T11:11:12Z 198.51.100.12 POST /api/logout 200 473ms
+2024-03-15T14:23:01Z 192.168.1.42 GET
+1779385764 10.0.0.7 GET /metrics 503 0.209s
+2026-05-22T14:33:08Z 172.16.0.1 PUT /api/products 200 343
+22-May-2026 13:45:55 192.168.1.42 POST /api/orders 403 0.468s
+2026-05-22T18:53:20Z 172.16.0.1 GET /api/users 200 0.063s
+22-May-2026 09:26:58 203.0.113.45 POST /api/notifications 200 0.104s
+1779433089 203.0.113.99 POST /api/users 201 414ms
+{"timestamp": 1779432263, "ip": "203.0.113.45", "method": "DELETE", "path": "/metrics", "status": 200, "response_time": "215ms"}
+2026-05-21T20:34:27Z 203.0.113.45 POST /health 204 308
+2026-05-22T12:05:55Z 203.0.113.99 POST /api/users 200 217
+22-May-2026 14:53:12 203.0.113.99 GET /static/app.js 404 161ms
+1779390312 203.0.113.99 PATCH /api/products/42 200 397
+{"timestamp": 1779395948, "ip": "10.0.0.7", "method": "HEAD", "path": "/api/search", "status": 200, "response_time": "238"}
+2026-05-22T18:25:27Z 192.168.1.42 GET /api/notifications 200 268ms
+{"timestamp": 1779422035, "ip": "192.168.1.42", "method": "HEAD", "path": "/api/logout", "status": 201, "response_time": "0.055s"}
+1779388477 203.0.113.45 DELETE /static/style.css 200 167
+  at java.lang.Thread.run(Thread.java:745)
+22-May-2026 01:38:24 192.168.1.42 GET /api/orders 200 42ms
+1779379819 203.0.113.45 POST /api/search 200 0.489s
+1779415831 203.0.113.45 DELETE /api/users/12 200 78
+2026-05-22T00:41:37Z 198.51.100.12 DELETE /metrics 200 124ms
+1779435268 198.51.100.12 DELETE /metrics 200 127ms
+22-May-2026 14:46:56 192.168.1.42 HEAD /api/orders 200 489ms
+2026-05-22T10:39:54Z 203.0.113.45 PATCH /static/app.js 201 0.130s
+2026/05/22 01:37:29 192.168.1.42 POST /metrics 503 384
+2026/05/22 14:57:05 172.16.0.1 POST /api/products 401 0.265s
+2026/05/22 19:10:29 203.0.113.99 POST /static/app.js 200 186
+{"timestamp": 1779422391, "ip": "203.0.113.99", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "0.100s"}
+2026-05-22T03:37:41Z 203.0.113.99 POST /api/search 200 223
+1779398060 10.0.0.7 PUT /static/app.js 200 57
+2026-05-21T21:38:50Z 203.0.113.45 HEAD /static/style.css 200 421
+2026/05/22 01:37:07 10.0.0.7 PUT /api/products 503 107
+{"timestamp": 1779418456, "ip": "10.0.0.7", "method": "HEAD", "path": "/static/style.css", "status": 201, "response_time": "0.458s"}
+1779417361 203.0.113.99 PUT /api/products 200 272ms
+22-May-2026 07:40:41 172.16.0.1 POST /api/products/42 200 123
+2026-05-22T09:41:23Z 198.51.100.12 PATCH /admin/dashboard 200 0.106s
+2026-05-22T08:23:37Z 203.0.113.99 HEAD /api/products/42 200 380
+1779391613 172.16.0.1 POST /api/login 201 465
+2026-05-22T08:59:06Z 192.168.1.42 HEAD /api/users 204 221ms
+2024-03-15T14:23:01Z 192.168.1.42
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+2026-05-22T11:14:18Z 203.0.113.99 PATCH /health 200 0.013s
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+2026/05/22 19:52:11 192.168.1.42 PATCH /api/notifications 200 230ms
+2026-05-22T08:59:44Z 10.0.0.7 POST /static/style.css 200 0.184s
+1779416735 10.0.0.7 HEAD /api/logout 200 344
+2026-05-22T06:08:13Z 203.0.113.45 PATCH /health 200 0.354s
+22-May-2026 15:14:07 198.51.100.12 GET /metrics 404 454
+1779400500 192.168.1.42 HEAD /api/products 403 0.332s
+2024-03-15T14:23:01Z 192.168.1.42
+{"timestamp": 1779447985, "ip": "203.0.113.45", "method": "GET", "path": "/api/products", "status": 200, "response_time": "0.288s"}
+2026/05/22 04:22:19 203.0.113.99 POST /api/search 503 0.048s
+2024-03-15T14:23:01Z 192.168.1.42 GET
+2026-05-22T04:35:04Z 198.51.100.12 PATCH /api/orders 503 0.025s
+2026-05-22T09:41:00Z 203.0.113.45 DELETE /api/login 200 405
+2026-05-22T13:31:30Z 192.168.1.42 PUT /api/login 200 0.321s
+2026-05-21T22:36:25Z 172.16.0.1 DELETE /api/products/42 204 0.075s
+2026/05/22 08:42:32 192.168.1.42 GET /api/users/12 200 0.302s
+2026-05-22T03:24:53Z 203.0.113.45 GET /admin/dashboard 404 134
+22-May-2026 05:32:52 10.0.0.7 PUT /api/products 200 0.041s
+1779444700 172.16.0.1 PUT /api/logout 201 0.301s
+2026-05-21T20:34:22Z 203.0.113.45 PUT /api/notifications 200 0.432s
+{"timestamp": 1779451339, "ip": "198.51.100.12", "method": "POST", "path": "/api/products", "status": 200, "response_time": "0.351s"}
+1779460775 172.16.0.1 HEAD /admin/dashboard 200 0.393s
+{"timestamp": 1779411027, "ip": "192.168.1.42", "method": "PATCH", "path": "/api/logout", "status": 200, "response_time": "403"}
+corrupted data at offset 572
+2026-05-22T06:56:00Z 172.16.0.1 HEAD /api/users/12 400 0.400s
+2026-05-22T02:13:08Z 203.0.113.99 POST /admin/dashboard 200 0.046s
+2026/05/22 08:34:09 203.0.113.99 DELETE /metrics 200 425
+2026-05-21T23:02:07Z 10.0.0.7 HEAD /static/app.js 200 298
+1779460610 172.16.0.1 DELETE /api/users/12 200 392
+22-May-2026 10:12:58 203.0.113.45 PUT /api/orders 200 357ms
+2026-05-22T07:59:49Z 172.16.0.1 DELETE /api/users/12 200 0.368s
+{"timestamp": 1779394951, "ip": "203.0.113.45", "method": "PUT", "path": "/health", "status": 200, "response_time": "379ms"}
+{"timestamp": 1779438489, "ip": "192.168.1.42", "method": "PUT", "path": "/static/app.js", "status": 200, "response_time": "419ms"}
+2026/05/22 00:15:13 198.51.100.12 DELETE /health 200 105
+1779379599 198.51.100.12 POST /health 200 209ms
+22-May-2026 15:49:11 192.168.1.42 PATCH /api/users/12 204 284ms
+2026-05-22T12:30:26Z 203.0.113.45 PATCH /static/app.js 200 208ms
+{"timestamp": 1779416636, "ip": "10.0.0.7", "method": "HEAD", "path": "/admin/dashboard", "status": 400, "response_time": "53"}
+2026-05-22T02:08:10Z 192.168.1.42 POST /api/products/42 200 271ms
+1779393126 203.0.113.99 PATCH /admin/dashboard 404 486ms
+2026-05-22T00:54:03Z 203.0.113.45 PATCH /api/users 401 497ms
+2026/05/22 08:32:27 203.0.113.45 DELETE /static/app.js 200 373ms
+2026-05-22T15:30:41Z 10.0.0.7 PUT /api/users 200 0.151s
+{"timestamp": 1779443253, "ip": "198.51.100.12", "method": "PATCH", "path": "/api/users/12", "status": 200, "response_time": "0.390s"}
+{"timestamp": 1779380672, "ip": "203.0.113.99", "method": "DELETE", "path": "/metrics", "status": 200, "response_time": "434"}
+2026-05-22T17:24:21Z 192.168.1.42 DELETE /api/products 200 428ms
+2026-05-22T01:26:51Z 203.0.113.99 PATCH /admin/dashboard 200 373ms
+{"timestamp": 1779394929, "ip": "10.0.0.7", "method": "GET", "path": "/static/style.css", "status": 200, "response_time": "0.302s"}
+2026-05-22T03:21:16Z 172.16.0.1 PATCH /static/app.js 400 0.482s
+2026-05-22T17:13:10Z 10.0.0.7 HEAD /api/notifications 200 84ms
+22-May-2026 05:50:07 10.0.0.7 PATCH /static/app.js 200 48
+{"timestamp": 1779385121, "ip": "198.51.100.12", "method": "HEAD", "path": "/api/products", "status": 200, "response_time": "0.191s"}
+2026-05-22T17:15:51Z 203.0.113.99 GET /admin/dashboard 503 335ms
+1779395898 203.0.113.45 POST /health 200 290
+{"timestamp": 1779419010, "ip": "172.16.0.1", "method": "HEAD", "path": "/api/search", "status": 200, "response_time": "0.317s"}
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+1779377136 203.0.113.45 POST /admin/dashboard 404 0.328s
+2026-05-22T02:25:11Z 172.16.0.1 HEAD /static/app.js 200 381
+1779433711 203.0.113.99 GET /api/users 200 125
+2026-05-21T20:36:14Z 172.16.0.1 GET /api/notifications 200 0.244s
+{"timestamp": 1779385927, "ip": "172.16.0.1", "method": "PUT", "path": "/api/products", "status": 200, "response_time": "406ms"}
+21-May-2026 23:50:20 198.51.100.12 PATCH /api/users 200 94ms
+2026-05-22T18:29:16Z 198.51.100.12 HEAD /health 401 54ms
+1779407450 203.0.113.45 PUT /api/search 200 137
+22-May-2026 10:59:33 203.0.113.99 GET /api/notifications 400 275
+22-May-2026 05:48:45 203.0.113.99 GET /api/search 403 498ms
+22-May-2026 10:39:53 198.51.100.12 GET /api/products/42 500 439
+2026/05/22 12:48:03 203.0.113.45 GET /api/users 200 17ms
+1779420848 203.0.113.99 HEAD /metrics 204 52
+2026/05/22 00:04:29 192.168.1.42 PUT /api/users/12 200 89
+2026/05/22 11:38:00 203.0.113.99 HEAD /static/app.js 200 367ms
+
+2026-05-22T07:17:29Z 198.51.100.12 GET /api/products 200 346ms
+21-May-2026 20:40:58 203.0.113.45 PUT /metrics 200 0.363s
+{"timestamp": 1779452544, "ip": "203.0.113.99", "method": "GET", "path": "/api/search", "status": 403, "response_time": "149"}
+corrupted data at offset 690
+1779416406 172.16.0.1 GET /health 401 95ms
+22-May-2026 13:45:25 10.0.0.7 HEAD /metrics 200 449ms
+1779456585 10.0.0.7 GET /metrics 400 375ms
+1779456207 172.16.0.1 PUT /api/notifications 200 200ms
+{"timestamp": 1779421640, "ip": "192.168.1.42", "method": "DELETE", "path": "/api/users/12", "status": 401, "response_time": "0.148s"}
+2026/05/22 07:22:20 172.16.0.1 POST /api/products 200 0.372s
+1779463286 10.0.0.7 HEAD /metrics 204 0.084s
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+{"timestamp": 1779436992, "ip": "192.168.1.42", "method": "PUT", "path": "/api/users", "status": 204, "response_time": "0.426s"}
+2026/05/22 20:00:18 203.0.113.45 DELETE /api/users 503 82ms
+{"timestamp": 1779421984, "ip": "203.0.113.99", "method": "PUT", "path": "/health", "status": 503, "response_time": "53ms"}
+1779383543 198.51.100.12 GET /api/orders 200 0.126s
+1779437620 203.0.113.99 PUT /api/products/42 200 129ms
+2026/05/21 23:01:32 192.168.1.42 POST /health 200 218ms
+1779399974 192.168.1.42 GET /api/login 400 366
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+2026-05-21T22:35:58Z 10.0.0.7 PUT /api/orders 200 356ms
+2024-03-15T14:23:01Z 192.168.1.42 GET
+2026/05/22 14:21:51 10.0.0.7 GET /health 200 416ms
+2026-05-21T23:32:51Z 203.0.113.45 PUT /static/app.js 200 0.051s
+2026-05-21T20:56:01Z 192.168.1.42 POST /static/app.js 200 0.055s
+1779381452 198.51.100.12 DELETE /api/notifications 201 0.024s
+2026-05-22T18:12:35Z 172.16.0.1 PUT /health 403 27ms
+1779412673 198.51.100.12 DELETE /api/users 200 112
+2026/05/22 02:23:24 198.51.100.12 GET /api/orders 204 0.245s
+2026/05/22 08:28:04 203.0.113.45 PUT /api/login 200 0.117s
+2024-03-15T14:23:01Z 192.168.1.42 GET
+{"timestamp": 1779427534, "ip": "10.0.0.7", "method": "POST", "path": "/api/users/12", "status": 200, "response_time": "427"}
+2024-03-15T14:23:01Z 192.168.1.42
+{"timestamp": 1779410637, "ip": "10.0.0.7", "method": "POST", "path": "/api/logout", "status": 200, "response_time": "193"}
+corrupted data at offset 460
+2026/05/21 23:49:15 10.0.0.7 DELETE /metrics 200 261ms
+2026-05-22T09:02:42Z 192.168.1.42 PUT /static/style.css 200 0.177s
+2024-03-15T14:23:01Z 192.168.1.42
+2026-05-22T14:59:43Z 198.51.100.12 PUT /api/users/12 200 492ms
+2026-05-21T23:41:07Z 10.0.0.7 HEAD /api/orders 204 99
+22-May-2026 17:45:39 198.51.100.12 PUT /api/logout 200 167
+2026-05-22T00:40:31Z 192.168.1.42 HEAD /static/style.css 200 404ms
+{"timestamp": 1779460672, "ip": "10.0.0.7", "method": "HEAD", "path": "/static/style.css", "status": 200, "response_time": "264ms"}
+2026-05-22T00:26:23Z 192.168.1.42 HEAD /static/app.js 200 0.175s
+21-May-2026 22:02:15 172.16.0.1 GET /admin/dashboard 200 207ms
+1779453262 172.16.0.1 PATCH /api/orders 200 305
+2026-05-22T00:18:51Z 192.168.1.42 GET /api/products 200 0.476s
+1779390979 192.168.1.42 PATCH /api/users/12 200 324ms
+22-May-2026 00:22:13 203.0.113.45 POST /api/users 200 219
+22-May-2026 09:22:24 203.0.113.99 PUT /api/products 200 0.203s
+2026-05-21T20:30:07Z 192.168.1.42 PUT /api/notifications 200 317ms
+22-May-2026 03:24:50 192.168.1.42 DELETE /api/notifications 200 260
+22-May-2026 09:28:10 10.0.0.7 PUT /api/orders 200 0.032s
+{"timestamp": 1779400281, "ip": "192.168.1.42", "method": "POST", "path": "/api/search", "status": 200, "response_time": "186"}
+{"timestamp": 1779428030, "ip": "198.51.100.12", "method": "GET", "path": "/api/notifications", "status": 200, "response_time": "284"}
+1779426560 10.0.0.7 DELETE /api/products 200 27
+2026/05/22 15:37:16 203.0.113.99 PATCH /api/login 200 397ms
+{"timestamp": 1779393729, "ip": "192.168.1.42", "method": "DELETE", "path": "/api/users/12", "status": 503, "response_time": "431"}
+2026/05/22 02:35:59 203.0.113.99 GET /api/users/12 200 0.281s
+{"timestamp": 1779378145, "ip": "203.0.113.99", "method": "PATCH", "path": "/static/style.css", "status": 200, "response_time": "224ms"}
+2026/05/22 14:36:41 192.168.1.42 GET /static/style.css 204 0.150s
+2026-05-22T05:36:12Z 203.0.113.45 PATCH /static/style.css 200 83
+22-May-2026 06:03:06 203.0.113.45 PUT /admin/dashboard 200 0.243s
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+2026-05-22T03:08:19Z 203.0.113.45 HEAD /static/app.js 200 163
+{"timestamp": 1779404800, "ip": "203.0.113.99", "method": "DELETE", "path": "/static/style.css", "status": 200, "response_time": "0.226s"}
+{"timestamp": 1779421703, "ip": "172.16.0.1", "method": "GET", "path": "/metrics", "status": 204, "response_time": "0.162s"}
+{"timestamp": 1779422376, "ip": "198.51.100.12", "method": "GET", "path": "/api/login", "status": 200, "response_time": "436ms"}
+
+22-May-2026 01:11:20 172.16.0.1 DELETE /metrics 200 482ms
+2026/05/22 07:07:01 203.0.113.45 PATCH /metrics 200 142
+2026-05-22T03:15:07Z 203.0.113.45 GET /api/login 401 409ms
+22-May-2026 01:22:19 203.0.113.99 DELETE /metrics 200 409ms
+2026-05-22T11:56:50Z 198.51.100.12 GET /api/logout 200 374
+1779454447 172.16.0.1 DELETE /api/products 200 432
+2026-05-21T20:35:12Z 203.0.113.99 PUT /metrics 200 321ms
+2026-05-22T20:07:52Z 203.0.113.99 PUT /api/notifications 200 466
+2026-05-22T08:49:31Z 10.0.0.7 GET /api/search 401 0.304s
+21-May-2026 21:01:17 203.0.113.45 PUT /api/products 404 28
+2026/05/22 15:59:41 172.16.0.1 HEAD /admin/dashboard 200 253
+2026-05-22T16:42:01Z 203.0.113.99 PATCH /api/login 200 142
+{"timestamp": 1779455928, "ip": "203.0.113.99", "method": "PUT", "path": "/static/app.js", "status": 200, "response_time": "0.119s"}
+2026-05-22T05:19:51Z 198.51.100.12 PUT /health 401 334
+2026/05/21 22:07:10 10.0.0.7 PATCH /api/users/12 401 205ms
+2026-05-21T23:42:26Z 10.0.0.7 PUT /api/orders 503 467ms
+22-May-2026 00:44:20 192.168.1.42 DELETE /api/products/42 200 100ms
+2026-05-22T14:40:44Z 10.0.0.7 PATCH /api/search 200 412ms
+22-May-2026 06:42:58 203.0.113.45 DELETE /api/orders 200 283ms
+{"timestamp": 1779449068, "ip": "10.0.0.7", "method": "GET", "path": "/static/app.js", "status": 200, "response_time": "0.132s"}
+2026-05-22T05:36:56Z 198.51.100.12 PUT /api/login 200 0.156s
+2026/05/22 08:59:21 203.0.113.45 HEAD /api/login 200 471ms
+{"timestamp": 1779411930, "ip": "10.0.0.7", "method": "POST", "path": "/admin/dashboard", "status": 503, "response_time": "311"}
+2026-05-22T13:28:37Z 192.168.1.42 DELETE /static/app.js 200 283ms
+22-May-2026 16:28:38 192.168.1.42 HEAD /api/users/12 200 0.071s
+2026-05-22T13:05:42Z 203.0.113.99 GET /api/products 200 148
+2026-05-22T06:27:44Z 192.168.1.42 PATCH /admin/dashboard 200 0.066s
+2026-05-22T15:04:53Z 198.51.100.12 POST /api/products/42 201 0.089s
+22-May-2026 18:48:19 172.16.0.1 POST /api/users 200 437
+2026-05-22T19:11:49Z 198.51.100.12 GET /admin/dashboard 201 0.135s
+2026-05-22T02:44:58Z 192.168.1.42 GET /api/notifications 200 194
+21-May-2026 23:11:31 192.168.1.42 GET /api/notifications 200 0.094s
+2026-05-22T17:29:38Z 192.168.1.42 PUT /api/notifications 200 0.206s
+22-May-2026 16:49:35 203.0.113.45 HEAD /api/search 200 77ms
+2026/05/22 07:59:40 198.51.100.12 HEAD /health 200 204ms
+{"timestamp": 1779439914, "ip": "10.0.0.7", "method": "DELETE", "path": "/health", "status": 200, "response_time": "0.226s"}
+2026-05-22T13:19:12Z 203.0.113.99 PATCH /api/search 201 499
+2026/05/22 08:57:53 203.0.113.99 PATCH /api/users/12 200 187
+1779389921 198.51.100.12 PATCH /api/users 200 0.087s
+{"timestamp": 1779391368, "ip": "203.0.113.45", "method": "PUT", "path": "/api/logout", "status": 200, "response_time": "124"}
+1779447675 192.168.1.42 DELETE /health 400 0.053s
+1779441466 192.168.1.42 GET /api/orders 200 295ms
+2026/05/22 11:42:41 198.51.100.12 PATCH /api/logout 200 243ms
+{"timestamp": 1779416343, "ip": "198.51.100.12", "method": "PATCH", "path": "/static/style.css", "status": 200, "response_time": "346ms"}
+22-May-2026 01:43:56 172.16.0.1 PUT /api/notifications 200 0.153s
+2026-05-22T17:56:07Z 203.0.113.45 POST /api/notifications 201 140
+2026-05-22T18:44:08Z 203.0.113.45 POST /health 400 0.361s
+corrupted data at offset 957
+2026-05-22T14:56:31Z 203.0.113.45 DELETE /static/app.js 200 268ms
+2026-05-22T09:41:16Z 203.0.113.45 PATCH /health 404 100
+22-May-2026 15:58:34 192.168.1.42 DELETE /static/app.js 200 0.168s
+2026/05/22 18:23:32 10.0.0.7 PUT /api/orders 503 160ms
+22-May-2026 17:41:05 198.51.100.12 PUT /api/notifications 201 387
+2026-05-22T01:26:36Z 203.0.113.99 PUT /static/app.js 200 373
+2026-05-22T08:30:14Z 203.0.113.99 HEAD /api/products/42 201 255
+22-May-2026 13:27:12 203.0.113.99 HEAD /api/notifications 200 459ms
+2026-05-22T05:33:04Z 192.168.1.42 HEAD /api/users 200 156
+{"timestamp": 1779382437, "ip": "172.16.0.1", "method": "POST", "path": "/api/search", "status": 200, "response_time": "62"}
+22-May-2026 09:53:44 10.0.0.7 HEAD /static/app.js 200 417
+21-May-2026 21:32:16 203.0.113.45 DELETE /api/orders 503 360ms
+  at java.lang.Thread.run(Thread.java:745)
+{"timestamp": 1779444549, "ip": "203.0.113.45", "method": "POST", "path": "/static/app.js", "status": 201, "response_time": "311"}
+2026-05-22T15:02:16Z 10.0.0.7 PUT /health 200 98
+1779380588 172.16.0.1 PATCH /api/products 200 0.425s
+2026-05-21T21:22:08Z 172.16.0.1 PATCH /api/users 204 0.312s
+2026/05/22 09:36:51 192.168.1.42 HEAD /api/products/42 200 44
+2026/05/22 09:17:57 192.168.1.42 PUT /api/logout 403 0.173s
+{"timestamp": 1779430497, "ip": "203.0.113.45", "method": "PATCH", "path": "/api/notifications", "status": 204, "response_time": "0.014s"}
+22-May-2026 11:08:21 198.51.100.12 POST /api/users 200 174ms
+2026/05/22 13:47:09 192.168.1.42 PATCH /api/notifications 204 0.403s
+corrupted data at offset 297
+2026-05-22T19:10:03Z 10.0.0.7 PATCH /metrics 200 43ms
+1779449279 10.0.0.7 PATCH /api/notifications 201 389ms
+2026-05-21T20:58:50Z 203.0.113.99 PUT /api/users 200 138
+{"timestamp": 1779396746, "ip": "172.16.0.1", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "0.222s"}
+2026/05/21 20:33:07 203.0.113.99 PATCH /api/users/12 204 309ms
+2026/05/21 22:57:27 203.0.113.99 PUT /static/style.css 200 0.464s
+2026-05-22T07:47:10Z 198.51.100.12 POST /api/login 201 0.401s
+2026-05-22T03:33:49Z 203.0.113.99 HEAD /api/products/42 503 15ms
+2026-05-22T10:09:20Z 203.0.113.45 PATCH /metrics 500 389
+1779455324 198.51.100.12 POST /api/login 200 325ms
+{"timestamp": 1779426091, "ip": "192.168.1.42", "method": "PATCH", "path": "/health", "status": 200, "response_time": "0.152s"}
+22-May-2026 10:20:41 172.16.0.1 PUT /api/login 200 130ms
+2026-05-22T08:04:16Z 172.16.0.1 PATCH /static/app.js 200 0.085s
+1779391648 172.16.0.1 POST /api/search 200 0.324s
+22-May-2026 04:22:04 203.0.113.45 DELETE /health 200 166ms
+2026-05-22T16:36:48Z 10.0.0.7 PATCH /api/logout 200 463ms
+{"timestamp": 1779420897, "ip": "192.168.1.42", "method": "PATCH", "path": "/static/style.css", "status": 200, "response_time": "28"}
+2026/05/22 07:44:27 10.0.0.7 PUT /api/orders 200 0.299s
+2026/05/22 08:39:37 203.0.113.45 PUT /metrics 200 422
+{"timestamp": 1779421499, "ip": "203.0.113.45", "method": "POST", "path": "/api/login", "status": 200, "response_time": "84"}
+2026-05-21T21:22:50Z 203.0.113.45 POST /api/users/12 200 115
+2026-05-22T05:43:28Z 203.0.113.45 GET /api/users 503 276
+{"timestamp": 1779441178, "ip": "198.51.100.12", "method": "PATCH", "path": "/static/style.css", "status": 200, "response_time": "310"}
+2026-05-22T08:48:37Z 203.0.113.45 POST /metrics 200 0.435s
+2026-05-22T08:27:16Z 10.0.0.7 DELETE /api/login 200 273ms
+2026-05-22T10:51:32Z 192.168.1.42 HEAD /api/logout 200 256
+2026-05-22T10:35:22Z 203.0.113.99 DELETE /api/users 200 75ms
+2026-05-22T17:47:22Z 10.0.0.7 GET /api/login 200 217
+21-May-2026 20:51:26 203.0.113.99 HEAD /static/app.js 400 239
+{"timestamp": 1779418693, "ip": "10.0.0.7", "method": "DELETE", "path": "/static/style.css", "status": 200, "response_time": "103"}
+2026-05-22T00:26:08Z 203.0.113.99 PUT /health 200 45ms
+2026-05-22T08:57:20Z 198.51.100.12 HEAD /api/orders 400 253
+{"timestamp": 1779422993, "ip": "192.168.1.42", "method": "GET", "path": "/health", "status": 200, "response_time": "471ms"}
+{"timestamp": 1779435705, "ip": "203.0.113.45", "method": "PATCH", "path": "/api/orders", "status": 200, "response_time": "32ms"}
+1779445295 203.0.113.45 PUT /static/style.css 400 366
+2026-05-22T02:31:08Z 10.0.0.7 GET /api/products 200 288ms
+{"timestamp": 1779377692, "ip": "198.51.100.12", "method": "GET", "path": "/metrics", "status": 200, "response_time": "0.111s"}
+2026-05-22T00:07:30Z 203.0.113.99 PATCH /api/products 200 197
+22-May-2026 05:56:57 10.0.0.7 DELETE /metrics 204 296
+2026-05-22T10:16:26Z 203.0.113.99 DELETE /admin/dashboard 200 452ms
+22-May-2026 19:11:32 192.168.1.42 POST /metrics 200 324
+2026-05-22T00:16:05Z 203.0.113.99 GET /api/search 200 0.241s
+2026-05-22T01:43:58Z 192.168.1.42 PATCH /api/users 201 324
+22-May-2026 19:32:06 192.168.1.42 POST /static/app.js 200 346
+2026-05-22T15:13:31Z 198.51.100.12 PATCH /admin/dashboard 200 96ms
+2026-05-21T22:29:40Z 172.16.0.1 DELETE /api/products/42 200 217ms
+2026-05-22T18:28:14Z 198.51.100.12 PUT /admin/dashboard 400 0.296s
+2026-05-22T07:19:28Z 203.0.113.45 PATCH /api/users 200 218ms
+2026-05-22T19:08:19Z 198.51.100.12 PUT /metrics 400 0.133s
+{"timestamp": 1779398096, "ip": "172.16.0.1", "method": "DELETE", "path": "/static/app.js", "status": 200, "response_time": "310ms"}
+1779431826 10.0.0.7 HEAD /admin/dashboard 200 190
+22-May-2026 16:22:57 10.0.0.7 PUT /api/users/12 200 48
+1779404196 10.0.0.7 PATCH /api/products 200 392ms
+2026-05-22T02:02:49Z 10.0.0.7 PUT /api/logout 200 0.132s
+2026-05-21T23:17:15Z 192.168.1.42 HEAD /static/app.js 200 13ms
+2026-05-22T11:18:23Z 203.0.113.45 PATCH /api/notifications 200 478
+2026-05-22T14:24:52Z 10.0.0.7 GET /metrics 204 26
+{"timestamp": 1779436377, "ip": "10.0.0.7", "method": "DELETE", "path": "/api/users/12", "status": 200, "response_time": "245ms"}
+1779427276 172.16.0.1 PUT /static/style.css 401 0.279s
+2026/05/22 04:38:41 10.0.0.7 DELETE /api/orders 200 0.379s
+2026-05-22T10:07:27Z 198.51.100.12 HEAD /api/logout 400 130
+1779394017 203.0.113.99 POST /health 400 78
+22-May-2026 03:59:16 203.0.113.45 PUT /api/products 200 60
+2026-05-22T15:56:31Z 203.0.113.45 HEAD /api/users/12 200 194
+{"timestamp": 1779399344, "ip": "192.168.1.42", "method": "DELETE", "path": "/api/users/12", "status": 200, "response_time": "111"}
+22-May-2026 09:19:58 172.16.0.1 PUT /api/products/42 200 259ms
+2026-05-22T07:32:25Z 10.0.0.7 POST /static/app.js 400 323
+2026-05-21T22:18:33Z 172.16.0.1 POST /api/products/42 200 319
+1779444553 172.16.0.1 HEAD /static/style.css 200 240ms
+2026-05-22T12:17:56Z 203.0.113.99 HEAD /admin/dashboard 200 95ms
+1779424462 192.168.1.42 DELETE /metrics 204 52ms
+1779403807 10.0.0.7 HEAD /api/products 200 74ms
+corrupted data at offset 465
+2026-05-22T17:09:08Z 203.0.113.45 PATCH /api/products 200 367
+2026/05/22 07:22:03 203.0.113.99 HEAD /static/style.css 200 0.323s
+2026-05-22T15:43:24Z 203.0.113.45 PUT /api/products/42 200 10
+{"timestamp": 1779388854, "ip": "172.16.0.1", "method": "DELETE", "path": "/metrics", "status": 200, "response_time": "0.251s"}
+{"timestamp": 1779414267, "ip": "172.16.0.1", "method": "PATCH", "path": "/api/logout", "status": 204, "response_time": "220"}
+2026-05-22T00:19:44Z 203.0.113.99 HEAD /api/orders 400 226
+{"timestamp": 1779446194, "ip": "198.51.100.12", "method": "HEAD", "path": "/static/app.js", "status": 200, "response_time": "0.374s"}
+{"timestamp": 1779382993, "ip": "10.0.0.7", "method": "PUT", "path": "/api/users/12", "status": 200, "response_time": "368"}
+2026-05-21T20:52:33Z 192.168.1.42 PATCH /api/users 200 74
+2026-05-22T01:59:52Z 10.0.0.7 GET /health 200 0.163s
+1779437292 192.168.1.42 PUT /api/users/12 400 0.082s
+2024-03-15T14:23:01Z 192.168.1.42 GET
+{"timestamp": 1779398684, "ip": "203.0.113.45", "method": "GET", "path": "/api/users/12", "status": 503, "response_time": "0.132s"}
+2026-05-22T01:11:26Z 203.0.113.99 GET /metrics 200 0.242s
+2026-05-22T11:30:37Z 192.168.1.42 HEAD /metrics 200 139ms
+2026-05-22T17:08:17Z 10.0.0.7 GET /api/logout 200 0.017s
+1779445259 192.168.1.42 GET /static/style.css 204 0.347s
+2026-05-22T00:11:42Z 192.168.1.42 HEAD /static/style.css 200 0.316s
+22-May-2026 09:16:58 192.168.1.42 POST /health 200 0.396s
+1779440425 192.168.1.42 HEAD /api/orders 200 0.133s
+2026/05/22 03:29:01 203.0.113.99 DELETE /api/logout 200 0.180s
+{"timestamp": 1779428803, "ip": "198.51.100.12", "method": "POST", "path": "/api/users/12", "status": 200, "response_time": "144"}
+2026-05-22T15:01:57Z 198.51.100.12 DELETE /admin/dashboard 200 196
+21-May-2026 21:55:50 198.51.100.12 DELETE /api/logout 200 88
+1779432451 192.168.1.42 GET /metrics 200 32ms
+2026-05-21T22:58:47Z 10.0.0.7 GET /api/users 200 260
+2026/05/22 02:33:10 172.16.0.1 POST /static/style.css 201 116
+{"timestamp": 1779383986, "ip": "203.0.113.99", "method": "GET", "path": "/api/products/42", "status": 200, "response_time": "0.446s"}
+2026-05-22T16:10:40Z 172.16.0.1 PATCH /api/users 201 437ms
+2026-05-21T22:50:23Z 10.0.0.7 PATCH /api/orders 200 301
+2026/05/22 14:23:28 203.0.113.45 HEAD /api/users/12 204 244
+2026-05-22T00:24:50Z 10.0.0.7 PATCH /api/orders 200 0.088s
+2026-05-22T09:36:44Z 172.16.0.1 PUT /api/orders 204 175
+2026/05/22 01:32:41 198.51.100.12 HEAD /api/products 200 241ms
+2026-05-22T10:42:31Z 198.51.100.12 POST /api/products 200 123ms
+22-May-2026 16:08:47 198.51.100.12 PATCH /metrics 200 0.086s
+2026-05-22T02:46:12Z 198.51.100.12 POST /api/logout 200 214
+21-May-2026 22:15:47 172.16.0.1 DELETE /api/login 200 470ms
+2026-05-21T21:18:26Z 198.51.100.12 DELETE /api/users/12 204 0.388s
+{"timestamp": 1779387492, "ip": "10.0.0.7", "method": "HEAD", "path": "/static/app.js", "status": 400, "response_time": "408"}
+2026-05-22T08:59:44Z 172.16.0.1 PATCH /static/style.css 200 267ms
+1779460975 198.51.100.12 PATCH /metrics 200 231ms
+2026-05-22T07:49:51Z 203.0.113.99 GET /metrics 200 232
+2026-05-22T07:57:09Z 10.0.0.7 DELETE /api/orders 200 386
+2026-05-22T02:48:02Z 203.0.113.45 PUT /static/app.js 404 0.065s
+2026-05-22T04:06:29Z 198.51.100.12 HEAD /api/users 204 0.494s
+1779380955 10.0.0.7 POST /static/app.js 200 397ms
+2026-05-22T19:11:06Z 10.0.0.7 PUT /api/users 200 0.065s
+2024-03-15T14:23:01Z 192.168.1.42
+2026-05-22T01:18:06Z 198.51.100.12 PUT /metrics 200 365
+1779427449 203.0.113.99 PATCH /api/users 200 414
+2026-05-22T07:34:10Z 192.168.1.42 GET /api/orders 200 0.428s
+2026-05-22T03:25:49Z 203.0.113.99 DELETE /api/logout 503 0.489s
+2026/05/22 09:10:04 10.0.0.7 POST /metrics 503 297ms
+2026/05/22 03:43:43 203.0.113.45 DELETE /admin/dashboard 200 191
+2026/05/22 03:01:53 192.168.1.42 HEAD /api/products 401 25
+2026-05-22T00:03:05Z 203.0.113.45 HEAD /api/login 200 357
+22-May-2026 01:52:07 10.0.0.7 PATCH /api/login 200 0.456s
+2026-05-22T12:04:11Z 198.51.100.12 PATCH /static/app.js 400 362
+2026-05-22T06:43:55Z 10.0.0.7 HEAD /static/style.css 404 282
+2026-05-22T16:33:32Z 10.0.0.7 HEAD /api/users 204 0.487s
+{"timestamp": 1779454330, "ip": "203.0.113.99", "method": "PUT", "path": "/api/login", "status": 204, "response_time": "23"}
+2026/05/22 10:01:10 10.0.0.7 PATCH /api/logout 200 0.186s
+{"timestamp": 1779429324, "ip": "203.0.113.99", "method": "HEAD", "path": "/api/products/42", "status": 200, "response_time": "208ms"}
+2026-05-22T06:12:59Z 192.168.1.42 PUT /api/orders 200 353ms
+2024-03-15T14:23:01Z 192.168.1.42 GET
+1779436509 203.0.113.45 POST /api/orders 200 0.308s
+1779429911 203.0.113.99 PATCH /static/style.css 200 338ms
+1779416553 192.168.1.42 POST /metrics 200 208
+2026-05-22T00:58:00Z 203.0.113.45 DELETE /api/products 204 0.236s
+2026-05-22T12:58:09Z 10.0.0.7 DELETE /api/notifications 200 56ms
+22-May-2026 09:31:27 203.0.113.45 DELETE /api/products/42 200 469
+1779384869 172.16.0.1 HEAD /static/app.js 404 417ms
+22-May-2026 07:11:45 172.16.0.1 GET /metrics 201 271
+1779424627 192.168.1.42 POST /api/products/42 200 347ms
+21-May-2026 21:38:30 172.16.0.1 PUT /admin/dashboard 204 238ms
+2026-05-21T20:29:42Z 172.16.0.1 GET /health 200 12
+2026-05-22T01:36:55Z 203.0.113.99 DELETE /health 200 50ms
+2026-05-22T11:17:05Z 198.51.100.12 POST /api/users 200 38ms
+22-May-2026 10:17:04 198.51.100.12 PUT /api/products/42 404 35ms
+2026/05/22 12:16:21 203.0.113.99 PATCH /static/style.css 204 393
+2026-05-21T22:38:43Z 172.16.0.1 PUT /api/products/42 403 228
+2024-03-15T14:23:01Z 192.168.1.42 GET
+22-May-2026 17:02:10 172.16.0.1 PATCH /api/orders 200 366ms
+22-May-2026 09:06:18 192.168.1.42 DELETE /admin/dashboard 200 0.396s
+{"timestamp": 1779404422, "ip": "198.51.100.12", "method": "PATCH", "path": "/static/style.css", "status": 200, "response_time": "264"}
+1779419630 10.0.0.7 PATCH /api/logout 201 0.011s
+2026-05-22T14:06:35Z 10.0.0.7 PATCH /api/orders 200 422
+22-May-2026 01:14:20 172.16.0.1 PUT /api/search 200 163ms
+2026-05-22T04:36:11Z 203.0.113.99 PATCH /static/style.css 503 0.096s
+1779456234 192.168.1.42 HEAD /api/login 200 452
+1779444814 203.0.113.45 HEAD /api/users 400 0.287s
+2026-05-22T01:24:31Z 203.0.113.99 PUT /api/search 404 0.183s
+2026-05-22T20:01:02Z 203.0.113.99 PATCH /api/notifications 200 320ms
+{"timestamp": 1779403713, "ip": "172.16.0.1", "method": "HEAD", "path": "/api/users", "status": 200, "response_time": "0.254s"}
+2026-05-22T01:35:52Z 172.16.0.1 POST /api/users/12 200 29ms
+2026-05-22T15:35:13Z 198.51.100.12 POST /api/logout 200 0.369s
+2026-05-22T14:52:40Z 192.168.1.42 PATCH /static/app.js 503 0.365s
+2026/05/21 23:11:25 172.16.0.1 GET /static/app.js 400 456ms
+{"timestamp": 1779434013, "ip": "172.16.0.1", "method": "GET", "path": "/static/style.css", "status": 204, "response_time": "337ms"}
+2026-05-22T09:11:06Z 203.0.113.45 HEAD /api/users/12 200 17
+2026-05-22T01:22:06Z 172.16.0.1 PATCH /api/products/42 200 155
+2026-05-22T03:53:00Z 172.16.0.1 PATCH /health 200 24ms
+2026-05-21T22:28:38Z 203.0.113.45 POST /admin/dashboard 200 363
+2026-05-22T03:54:32Z 10.0.0.7 HEAD /api/search 200 0.048s
+2026-05-22T15:55:08Z 203.0.113.99 DELETE /api/users/12 200 0.326s
+2026-05-21T23:51:35Z 198.51.100.12 PUT /api/products/42 200 0.459s
+2026-05-21T21:58:45Z 192.168.1.42 PUT /health 200 188
+2026/05/21 22:52:51 203.0.113.99 GET /api/products/42 200 0.398s
+1779397690 10.0.0.7 PATCH /api/login 503 116
+{"timestamp": 1779461767, "ip": "198.51.100.12", "method": "PUT", "path": "/metrics", "status": 200, "response_time": "49"}
+2026/05/22 16:29:32 192.168.1.42 PATCH /static/style.css 200 294ms
+1779383091 192.168.1.42 HEAD /api/notifications 200 263
+2026-05-22T01:37:59Z 10.0.0.7 PATCH /api/search 200 10ms
+2026-05-22T05:46:12Z 198.51.100.12 DELETE /api/logout 200 301
+1779439094 172.16.0.1 GET /static/style.css 200 0.208s
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+2026-05-22T13:17:27Z 172.16.0.1 GET /api/notifications 200 369
+2026-05-22T13:29:34Z 203.0.113.45 DELETE /api/orders 200 349ms
+{"timestamp": 1779456952, "ip": "203.0.113.45", "method": "POST", "path": "/api/products", "status": 503, "response_time": "353ms"}
+2026-05-22T13:43:21Z 203.0.113.45 HEAD /api/orders 503 0.051s
+{"timestamp": 1779437159, "ip": "203.0.113.45", "method": "PATCH", "path": "/api/login", "status": 200, "response_time": "0.281s"}
+2026-05-22T06:36:18Z 192.168.1.42 PATCH /health 400 0.359s
+2026/05/22 05:13:03 192.168.1.42 PATCH /health 201 67ms
+22-May-2026 09:02:39 172.16.0.1 DELETE /metrics 200 0.309s
+22-May-2026 19:27:37 192.168.1.42 HEAD /static/app.js 200 0.163s
+2026-05-22T07:39:48Z 198.51.100.12 DELETE /static/style.css 201 0.183s
+2026-05-22T13:05:30Z 198.51.100.12 HEAD /api/products 201 0.138s
+2026/05/21 21:38:57 172.16.0.1 HEAD /static/style.css 200 258ms
+2026-05-22T02:27:34Z 198.51.100.12 PUT /api/products 401 17ms
+22-May-2026 00:02:15 203.0.113.45 PUT /api/search 200 410ms
+{"timestamp": 1779379936, "ip": "192.168.1.42", "method": "POST", "path": "/static/style.css", "status": 500, "response_time": "0.420s"}
+2026-05-22T12:15:59Z 203.0.113.99 HEAD /api/login 200 37
+{"timestamp": 1779387099, "ip": "10.0.0.7", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "395"}
+22-May-2026 13:20:42 203.0.113.45 PUT /api/login 200 0.016s
+2026-05-22T19:29:34Z 203.0.113.99 GET /api/users/12 404 0.183s
+22-May-2026 17:00:39 172.16.0.1 PUT /api/products 400 0.331s
+22-May-2026 02:12:49 203.0.113.99 PATCH /api/search 200 0.342s
+21-May-2026 20:36:50 192.168.1.42 GET /api/orders 200 63ms
+2026-05-22T01:02:39Z 192.168.1.42 PATCH /api/users/12 200 314ms
+21-May-2026 23:20:00 192.168.1.42 GET /api/notifications 200 470
+2026-05-22T17:54:52Z 203.0.113.99 POST /api/products 200 0.469s
+2026-05-22T14:52:30Z 203.0.113.99 HEAD /api/search 204 0.089s
+1779410651 192.168.1.42 PUT /api/notifications 200 235ms
+2026-05-22T11:54:07Z 192.168.1.42 POST /metrics 204 0.311s
+2026-05-21T21:14:49Z 192.168.1.42 PATCH /admin/dashboard 200 238ms
+2026-05-22T18:47:59Z 203.0.113.99 DELETE /api/products 200 178ms
+{"timestamp": 1779419472, "ip": "203.0.113.45", "method": "DELETE", "path": "/api/notifications", "status": 201, "response_time": "425ms"}
+corrupted data at offset 937
+2026-05-22T10:01:27Z 172.16.0.1 PUT /static/app.js 200 500
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+2026-05-21T22:20:29Z 203.0.113.45 PUT /static/app.js 200 206
+22-May-2026 05:46:22 192.168.1.42 HEAD /admin/dashboard 200 234
+2026-05-22T01:02:40Z 203.0.113.99 PATCH /api/logout 200 0.398s
+{"timestamp": 1779447215, "ip": "192.168.1.42", "method": "GET", "path": "/api/products/42", "status": 200, "response_time": "413ms"}
+22-May-2026 12:25:33 203.0.113.45 HEAD /api/notifications 401 86ms
+2024-03-15T14:23:01Z 192.168.1.42
+2026-05-22T07:43:11Z 198.51.100.12 GET /api/logout 201 76ms
+{"timestamp": 1779445653, "ip": "203.0.113.45", "method": "PATCH", "path": "/api/login", "status": 400, "response_time": "42ms"}
+{"timestamp": 1779430268, "ip": "192.168.1.42", "method": "POST", "path": "/api/orders", "status": 200, "response_time": "0.491s"}
+22-May-2026 10:14:01 10.0.0.7 PUT /api/notifications 503 119ms
+2026-05-22T02:59:02Z 203.0.113.45 POST /admin/dashboard 200 483
+
+22-May-2026 11:06:32 10.0.0.7 GET /health 200 55
+2026-05-22T06:23:59Z 203.0.113.45 HEAD /api/login 200 0.143s
+2026-05-22T11:03:48Z 192.168.1.42 PATCH /api/login 201 0.476s
+2026-05-22T09:47:43Z 10.0.0.7 GET /metrics 503 399
+1779443634 203.0.113.99 POST /api/products 200 0.400s
+2026-05-22T12:29:38Z 192.168.1.42 GET /static/app.js 200 181
+{"timestamp": 1779416229, "ip": "192.168.1.42", "method": "HEAD", "path": "/api/users", "status": 404, "response_time": "0.087s"}
+2026-05-22T17:53:32Z 203.0.113.99 DELETE /static/style.css 200 0.107s
+2026-05-22T04:14:15Z 192.168.1.42 POST /admin/dashboard 200 112ms
+1779381772 203.0.113.45 POST /api/logout 404 242ms
+2026-05-22T11:34:44Z 172.16.0.1 POST /api/products/42 200 364ms
+1779416698 10.0.0.7 PUT /api/logout 403 416
+2026-05-22T10:17:07Z 198.51.100.12 POST /api/users/12 200 120
+1779401198 203.0.113.99 DELETE /admin/dashboard 401 136ms
+2026/05/22 19:07:13 198.51.100.12 GET /api/orders 503 385
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+{"timestamp": 1779446026, "ip": "192.168.1.42", "method": "DELETE", "path": "/health", "status": 200, "response_time": "364"}
+2026-05-21T23:35:44Z 172.16.0.1 POST /static/app.js 503 18ms
+{"timestamp": 1779426358, "ip": "198.51.100.12", "method": "GET", "path": "/health", "status": 200, "response_time": "80ms"}
+2026-05-22T11:27:14Z 203.0.113.99 HEAD /api/users 401 0.199s
+2026-05-22T06:37:55Z 172.16.0.1 HEAD /static/style.css 200 416ms
+2026-05-22T14:04:07Z 192.168.1.42 PATCH /static/app.js 200 0.064s
+2026-05-22T05:12:17Z 203.0.113.99 PATCH /admin/dashboard 200 0.389s
+2026-05-22T11:59:14Z 203.0.113.99 PATCH /api/notifications 503 117ms
+2026-05-22T08:29:45Z 203.0.113.45 PUT /api/users 200 266
+1779438406 203.0.113.99 PATCH /api/products 200 494
+2026-05-22T00:55:51Z 203.0.113.45 GET /api/users/12 200 101ms
+2026-05-21T23:05:56Z 10.0.0.7 DELETE /api/login 401 0.477s
+22-May-2026 09:24:17 10.0.0.7 DELETE /api/products/42 200 387ms
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+{"timestamp": 1779458937, "ip": "203.0.113.99", "method": "PUT", "path": "/api/orders", "status": 200, "response_time": "0.327s"}
+22-May-2026 09:08:04 198.51.100.12 DELETE /health 200 77ms
+2026-05-22T08:01:56Z 172.16.0.1 GET /api/login 200 243ms
+2026-05-22T00:47:06Z 10.0.0.7 HEAD /admin/dashboard 404 416ms
+  at java.lang.Thread.run(Thread.java:745)
+1779399576 10.0.0.7 POST /metrics 201 350ms
+2026/05/22 19:49:17 198.51.100.12 PUT /api/users/12 404 217ms
+2026-05-22T00:09:20Z 203.0.113.99 PATCH /metrics 200 0.155s
+{"timestamp": 1779461809, "ip": "198.51.100.12", "method": "HEAD", "path": "/api/login", "status": 204, "response_time": "0.454s"}
+22-May-2026 07:54:21 192.168.1.42 POST /static/app.js 200 167ms
+2026-05-22T04:14:35Z 198.51.100.12 HEAD /api/logout 200 0.393s
+2026-05-22T09:19:56Z 203.0.113.45 HEAD /static/app.js 503 0.203s
+2026/05/22 19:03:07 203.0.113.99 PUT /api/orders 200 0.220s
+  at java.lang.Thread.run(Thread.java:745)
+1779452617 192.168.1.42 POST /admin/dashboard 403 0.496s
+{"timestamp": 1779439977, "ip": "203.0.113.45", "method": "HEAD", "path": "/api/orders", "status": 200, "response_time": "310ms"}
+{"timestamp": 1779422463, "ip": "172.16.0.1", "method": "GET", "path": "/static/style.css", "status": 204, "response_time": "0.013s"}
+2026/05/22 07:30:04 198.51.100.12 POST /api/logout 200 205ms
+2026-05-22T16:26:25Z 172.16.0.1 DELETE /metrics 201 124ms
+22-May-2026 16:25:56 203.0.113.45 GET /static/app.js 200 261
+2026-05-21T23:16:29Z 172.16.0.1 DELETE /api/users/12 200 0.295s
+22-May-2026 12:52:20 203.0.113.99 GET /api/products/42 200 304ms
+2026-05-22T04:04:58Z 203.0.113.99 POST /api/products/42 200 0.187s
+  at java.lang.Thread.run(Thread.java:745)
+2026-05-22T08:44:35Z 203.0.113.99 POST /api/search 200 0.092s
+22-May-2026 15:36:27 172.16.0.1 HEAD /admin/dashboard 200 59ms
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+{"timestamp": 1779418973, "ip": "172.16.0.1", "method": "POST", "path": "/api/users/12", "status": 200, "response_time": "106"}
+{"timestamp": 1779459373, "ip": "198.51.100.12", "method": "HEAD", "path": "/metrics", "status": 201, "response_time": "420ms"}
+2026-05-22T18:34:20Z 203.0.113.45 PUT /api/products 200 465
+2026-05-22T00:32:36Z 172.16.0.1 GET /admin/dashboard 400 123ms
+2026-05-21T23:25:07Z 10.0.0.7 GET /api/orders 200 0.065s
+2026-05-22T01:07:22Z 192.168.1.42 HEAD /metrics 200 250ms
+corrupted data at offset 110
+{"timestamp": 1779387773, "ip": "198.51.100.12", "method": "POST", "path": "/static/style.css", "status": 404, "response_time": "104ms"}
+22-May-2026 19:00:53 198.51.100.12 PUT /api/products/42 200 266ms
+2026-05-21T22:47:20Z 198.51.100.12 GET /metrics 200 97
+corrupted data at offset 201
+2026/05/22 16:50:29 203.0.113.45 PUT /admin/dashboard 200 235ms
+1779413719 198.51.100.12 POST /api/orders 200 66
+{"timestamp": 1779408289, "ip": "172.16.0.1", "method": "PATCH", "path": "/admin/dashboard", "status": 200, "response_time": "0.252s"}
+22-May-2026 03:53:55 203.0.113.45 POST /metrics 200 447ms
+{"timestamp": 1779418176, "ip": "203.0.113.99", "method": "PUT", "path": "/api/login", "status": 200, "response_time": "0.251s"}
+22-May-2026 12:38:48 192.168.1.42 POST /api/orders 200 312ms
+2024-03-15T14:23:01Z 192.168.1.42
+2026/05/22 16:40:01 203.0.113.45 GET /api/logout 400 401
+2026/05/22 02:57:42 203.0.113.99 DELETE /api/products/42 200 258
+{"timestamp": 1779416358, "ip": "192.168.1.42", "method": "PUT", "path": "/health", "status": 200, "response_time": "331ms"}
+{"timestamp": 1779382972, "ip": "203.0.113.99", "method": "GET", "path": "/api/login", "status": 200, "response_time": "165"}
+{"timestamp": 1779383688, "ip": "198.51.100.12", "method": "DELETE", "path": "/api/search", "status": 200, "response_time": "261"}
+2026-05-22T15:50:16Z 198.51.100.12 PATCH /api/users 503 26ms
+2026-05-22T16:52:46Z 203.0.113.45 DELETE /api/users 200 0.333s
+2026-05-22T08:12:21Z 10.0.0.7 PUT /admin/dashboard 200 0.064s
+22-May-2026 09:21:21 203.0.113.45 DELETE /metrics 401 0.037s
+1779430381 172.16.0.1 PUT /api/products/42 200 0.032s
+22-May-2026 10:25:32 203.0.113.99 PUT /api/orders 200 0.496s
+2024-03-15T14:23:01Z 192.168.1.42
+22-May-2026 03:54:03 192.168.1.42 HEAD /api/users/12 401 20
+1779433908 203.0.113.45 PATCH /metrics 404 250
+  at java.lang.Thread.run(Thread.java:745)
+1779404934 192.168.1.42 DELETE /api/users/12 200 267
+2026/05/22 03:35:56 203.0.113.45 POST /health 200 445
+2026-05-21T21:33:04Z 198.51.100.12 DELETE /api/search 200 377
+2026-05-22T02:58:16Z 198.51.100.12 PATCH /health 200 0.400s
+2026-05-22T06:48:01Z 198.51.100.12 PUT /api/logout 200 242
+2026-05-22T17:33:07Z 203.0.113.99 HEAD /metrics 401 348
+2026-05-22T18:54:08Z 198.51.100.12 PATCH /api/notifications 204 382
+2024-03-15T14:23:01Z 192.168.1.42
+2026-05-22T02:10:46Z 203.0.113.99 HEAD /api/search 200 232ms
+{"timestamp": 1779412712, "ip": "172.16.0.1", "method": "HEAD", "path": "/api/login", "status": 200, "response_time": "317ms"}
+2026-05-22T02:18:16Z 172.16.0.1 DELETE /health 200 233ms
+2026-05-21T23:41:05Z 172.16.0.1 PUT /static/app.js 200 0.428s
+2026-05-22T17:02:25Z 192.168.1.42 PUT /static/style.css 200 0.451s
+2026-05-22T05:56:09Z 203.0.113.99 POST /api/logout 200 71
+2026/05/22 19:12:09 198.51.100.12 PUT /health 403 0.304s
+2026/05/22 14:06:14 203.0.113.99 HEAD /api/logout 500 121ms
+1779412361 198.51.100.12 GET /health 200 172
+22-May-2026 02:19:22 172.16.0.1 POST /api/products/42 200 20
+2026/05/21 21:14:45 203.0.113.99 HEAD /api/search 500 363ms
+1779403798 203.0.113.99 PUT /api/search 200 0.435s
+1779457214 172.16.0.1 PUT /api/users/12 500 397ms
+22-May-2026 04:01:22 203.0.113.99 DELETE /api/search 200 0.049s
+1779457127 172.16.0.1 HEAD /api/orders 401 92
+2026-05-22T04:51:18Z 198.51.100.12 HEAD /api/notifications 200 177ms
+2026-05-22T11:32:03Z 203.0.113.99 POST /api/users 200 331ms
+2026-05-22T08:48:11Z 203.0.113.99 POST /api/notifications 200 0.398s
+21-May-2026 23:36:52 10.0.0.7 HEAD /static/style.css 400 0.148s
+1779452797 198.51.100.12 POST /api/users 500 323
+2026-05-22T19:47:22Z 10.0.0.7 PUT /admin/dashboard 401 229
+2026-05-22T19:24:11Z 10.0.0.7 PATCH /api/users/12 200 0.223s
+1779387317 203.0.113.99 POST /api/logout 500 157
+2026-05-22T06:45:42Z 10.0.0.7 PATCH /api/logout 503 0.366s
+{"timestamp": 1779389687, "ip": "172.16.0.1", "method": "PUT", "path": "/api/logout", "status": 200, "response_time": "308"}
+2026-05-21T20:39:29Z 10.0.0.7 PUT /admin/dashboard 200 0.360s
+2026-05-21T22:09:49Z 198.51.100.12 GET /api/users 200 191
+{"timestamp": 1779428764, "ip": "203.0.113.99", "method": "GET", "path": "/api/users", "status": 200, "response_time": "212"}
+2026/05/21 21:23:50 10.0.0.7 PUT /api/login 200 486ms
+corrupted data at offset 643
+2026-05-21T23:12:52Z 192.168.1.42 POST /health 401 0.148s
+2026-05-22T11:07:15Z 172.16.0.1 PATCH /api/products/42 200 94ms
+22-May-2026 11:41:24 203.0.113.45 GET /api/logout 200 0.100s
+1779414785 203.0.113.45 GET /health 200 0.285s
+22-May-2026 17:12:56 192.168.1.42 PUT /api/users/12 200 96
+2026-05-22T09:55:42Z 203.0.113.99 PATCH /api/logout 200 12ms
+2026-05-22T02:19:05Z 203.0.113.45 HEAD /api/users/12 403 23ms
+2026/05/22 18:42:36 192.168.1.42 PUT /api/login 200 0.417s
+2026-05-22T10:40:16Z 192.168.1.42 PUT /api/users 200 495
+{"timestamp": 1779426253, "ip": "10.0.0.7", "method": "GET", "path": "/api/search", "status": 200, "response_time": "175ms"}
+2026/05/22 05:33:49 203.0.113.45 PUT /api/login 200 404ms
+2026-05-22T05:44:04Z 203.0.113.45 PUT /static/app.js 204 0.086s
+22-May-2026 15:45:46 172.16.0.1 HEAD /static/style.css 200 198
+1779453577 203.0.113.45 PUT /static/style.css 200 0.381s
+1779431569 192.168.1.42 GET /metrics 200 341
+1779422634 203.0.113.99 PATCH /api/users/12 200 0.049s
+2026-05-22T12:50:02Z 172.16.0.1 POST /metrics 200 301ms
+2026/05/22 06:36:30 192.168.1.42 DELETE /static/app.js 201 140
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+corrupted data at offset 777
+{"timestamp": 1779392820, "ip": "203.0.113.45", "method": "GET", "path": "/api/users/12", "status": 200, "response_time": "310"}
+22-May-2026 07:12:33 172.16.0.1 PUT /api/notifications 400 392
+21-May-2026 22:57:44 198.51.100.12 GET /api/users 200 0.094s
+{"timestamp": 1779433904, "ip": "203.0.113.99", "method": "PATCH", "path": "/admin/dashboard", "status": 200, "response_time": "0.408s"}
+22-May-2026 12:36:46 172.16.0.1 GET /api/login 200 18
+{"timestamp": 1779379394, "ip": "203.0.113.45", "method": "HEAD", "path": "/api/login", "status": 200, "response_time": "449"}
+2026-05-22T14:53:01Z 10.0.0.7 DELETE /api/orders 200 388
+1779417814 203.0.113.45 PATCH /api/logout 200 301ms
+2026-05-22T11:32:25Z 203.0.113.99 DELETE /api/orders 400 384
+2026-05-22T08:06:37Z 203.0.113.45 PATCH /static/style.css 201 0.343s
+2026-05-22T09:05:23Z 203.0.113.45 PATCH /api/products/42 200 0.448s
+2026/05/22 18:56:44 172.16.0.1 DELETE /admin/dashboard 200 0.151s
+2026-05-22T08:35:37Z 198.51.100.12 HEAD /api/products/42 404 0.423s
+2026-05-22T13:45:44Z 203.0.113.45 DELETE /api/notifications 500 0.370s
+{"timestamp": 1779391076, "ip": "10.0.0.7", "method": "PUT", "path": "/admin/dashboard", "status": 201, "response_time": "351ms"}
+1779385795 203.0.113.45 DELETE /api/products 200 0.033s
+2026-05-22T12:39:24Z 10.0.0.7 PATCH /api/users 400 182ms
+2026-05-22T08:04:59Z 172.16.0.1 PUT /api/search 200 459ms
+{"timestamp": 1779421607, "ip": "203.0.113.99", "method": "GET", "path": "/admin/dashboard", "status": 200, "response_time": "494ms"}
+{"timestamp": 1779429831, "ip": "192.168.1.42", "method": "PATCH", "path": "/api/users", "status": 200, "response_time": "95ms"}
+2026-05-22T13:53:27Z 203.0.113.99 DELETE /api/search 200 88
+{"timestamp": 1779388981, "ip": "10.0.0.7", "method": "DELETE", "path": "/api/orders", "status": 204, "response_time": "0.130s"}
+2026/05/22 00:31:14 172.16.0.1 PUT /admin/dashboard 204 194ms
+2026/05/22 06:31:54 10.0.0.7 POST /api/search 200 244
+2026-05-22T19:03:36Z 203.0.113.45 POST /api/search 200 422ms
+1779461917 10.0.0.7 DELETE /api/users 200 28ms
+2026-05-22T19:52:33Z 203.0.113.99 HEAD /metrics 503 358
+2026-05-22T13:43:39Z 172.16.0.1 PUT /api/users 400 470ms
+1779432708 198.51.100.12 PATCH /api/search 200 464
+2026-05-22T17:33:13Z 192.168.1.42 GET /metrics 200 381ms
+2026/05/22 03:13:29 192.168.1.42 PATCH /metrics 200 184ms
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+2026-05-22T02:12:09Z 172.16.0.1 HEAD /api/orders 503 0.369s
+2026/05/22 04:55:04 192.168.1.42 HEAD /api/users/12 200 0.371s
+{"timestamp": 1779441511, "ip": "198.51.100.12", "method": "PATCH", "path": "/admin/dashboard", "status": 403, "response_time": "442"}
+2026-05-22T03:14:21Z 203.0.113.99 PATCH /static/app.js 200 203ms
+2026/05/22 01:01:54 172.16.0.1 DELETE /api/users/12 200 227ms
+2024-03-15T14:23:01Z 192.168.1.42
+1779383823 203.0.113.99 PATCH /api/orders 200 0.392s
+22-May-2026 06:34:21 203.0.113.45 HEAD /health 201 83
+22-May-2026 07:23:44 203.0.113.99 PATCH /api/notifications 200 365ms
+2026/05/22 05:16:28 192.168.1.42 PATCH /api/notifications 200 71ms
+2026-05-22T05:19:32Z 172.16.0.1 PUT /api/products 200 411
+2026-05-22T17:44:52Z 10.0.0.7 POST /api/notifications 201 11ms
+1779418651 172.16.0.1 PATCH /health 404 437
+2026-05-22T14:41:50Z 198.51.100.12 HEAD /health 204 453
+{"timestamp": 1779431057, "ip": "198.51.100.12", "method": "DELETE", "path": "/api/orders", "status": 200, "response_time": "33"}
+22-May-2026 03:04:02 192.168.1.42 POST /admin/dashboard 200 0.400s
+2026-05-22T11:51:51Z 192.168.1.42 POST /static/style.css 200 301
+1779420505 192.168.1.42 GET /static/app.js 500 102ms
+22-May-2026 16:32:40 198.51.100.12 DELETE /api/users/12 400 320ms
+2026-05-22T04:34:09Z 10.0.0.7 DELETE /api/users 401 172ms
+2026/05/22 00:26:46 10.0.0.7 POST /api/products 204 218
+2026/05/22 19:28:38 10.0.0.7 GET /admin/dashboard 200 0.058s
+2026-05-22T05:25:22Z 192.168.1.42 GET /api/logout 200 262
+1779459102 172.16.0.1 GET /api/products/42 200 0.042s
+2026-05-22T02:52:13Z 198.51.100.12 HEAD /api/users/12 200 0.329s
+1779384327 203.0.113.99 PATCH /api/logout 204 82ms
+1779460138 198.51.100.12 DELETE /api/users 200 0.481s
+2026-05-21T20:25:24Z 203.0.113.45 PUT /static/style.css 200 189
+{"timestamp": 1779421170, "ip": "192.168.1.42", "method": "POST", "path": "/admin/dashboard", "status": 200, "response_time": "212"}
+2024-03-15T14:23:01Z 192.168.1.42
+2026-05-22T17:29:21Z 10.0.0.7 PATCH /metrics 503 0.443s
+{"timestamp": 1779438227, "ip": "172.16.0.1", "method": "POST", "path": "/static/app.js", "status": 503, "response_time": "0.113s"}
+corrupted data at offset 236
+2026-05-22T11:01:16Z 192.168.1.42 GET /static/app.js 200 0.449s
+2026/05/21 22:21:29 203.0.113.99 HEAD /api/users/12 200 0.418s
+2026-05-22T19:44:21Z 203.0.113.45 PATCH /api/products/42 200 439ms
+2026-05-22T18:52:49Z 203.0.113.45 GET /api/logout 201 481
+2026-05-22T16:00:04Z 203.0.113.99 PUT /api/search 201 129ms
+22-May-2026 13:22:39 10.0.0.7 GET /api/logout 503 0.204s
+1779391806 10.0.0.7 HEAD /admin/dashboard 200 359ms
+21-May-2026 21:58:18 172.16.0.1 PATCH /api/notifications 200 277ms
+2026-05-22T20:13:02Z 203.0.113.99 HEAD /metrics 200 358ms
+22-May-2026 12:33:53 203.0.113.99 GET /api/notifications 500 0.424s
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200 142ms "Mozilla/5.0" "https://example.com" extra_field1 extra_field2
+2026-05-22T08:49:28Z 192.168.1.42 HEAD /api/logout 200 0.216s
+2024-03-15T14:23:01Z 192.168.1.42
+2026/05/22 15:47:40 203.0.113.99 POST /admin/dashboard 200 48ms
+2026-05-22T11:26:03Z 192.168.1.42 GET /health 200 0.300s
+2026-05-21T22:59:55Z 10.0.0.7 PUT /api/notifications 200 180ms
+2026/05/22 06:56:06 192.168.1.42 HEAD /health 200 53ms
+{"timestamp": 1779436984, "ip": "10.0.0.7", "method": "GET", "path": "/api/search", "status": 200, "response_time": "164ms"}
+
+2026-05-22T16:48:31Z 203.0.113.45 GET /static/style.css 204 413
+1779410248 203.0.113.45 PATCH /static/style.css 200 343ms
+2026-05-22T10:31:04Z 192.168.1.42 GET /api/users 200 44ms
+2026-05-22T11:42:25Z 172.16.0.1 PUT /api/orders 200 327ms
+2026-05-21T23:28:29Z 198.51.100.12 DELETE /metrics 503 308
+2026-05-22T07:40:44Z 198.51.100.12 PUT /api/products 200 346
+2026-05-22T08:34:51Z 198.51.100.12 GET /api/orders 200 112ms
+22-May-2026 07:49:40 203.0.113.99 DELETE /static/style.css 200 181
+2026-05-22T00:18:18Z 203.0.113.45 GET /health 200 11ms
+2026-05-22T02:08:48Z 203.0.113.99 PUT /api/search 201 115ms
+2026-05-22T04:59:59Z 198.51.100.12 GET /api/login 200 0.319s
+
+2026-05-22T00:35:24Z 172.16.0.1 HEAD /api/login 200 293ms
+2026-05-22T18:15:57Z 192.168.1.42 HEAD /api/login 200 413ms
+2026-05-22T05:16:54Z 172.16.0.1 HEAD /api/login 500 0.499s
+2026-05-21T23:15:15Z 10.0.0.7 POST /api/logout 200 0.193s
+2026-05-22T18:30:53Z 198.51.100.12 PATCH /api/logout 401 160ms
+2024-03-15T14:23:01Z 192.168.1.42 GET /api/users 200
+2026-05-22T16:50:47Z 198.51.100.12 DELETE /api/logout 201 349
+2026/05/22 05:43:30 203.0.113.99 PATCH /api/products/42 200 0.098s
+1779438909 203.0.113.45 DELETE /api/products 200 308
+2024-03-15T14:23:01Z 192.168.1.42
+1779451655 203.0.113.45 POST /api/products 200 0.290s
+2026-05-21T23:38:03Z 192.168.1.42 PUT /health 200 248
+1779416057 203.0.113.45 DELETE /api/products/42 400 172ms
+2026-05-22T11:53:56Z 172.16.0.1 GET /api/products 400 0.278s
+2026-05-21T23:15:23Z 172.16.0.1 GET /metrics 200 0.341s
+{"timestamp": 1779436135, "ip": "172.16.0.1", "method": "POST", "path": "/admin/dashboard", "status": 200, "response_time": "395"}
+2026-05-21T20:36:55Z 172.16.0.1 PUT /api/notifications 200 430
+2026-05-22T07:44:18Z 198.51.100.12 POST /api/notifications 200 0.364s
+2026/05/22 15:16:25 203.0.113.45 HEAD /api/notifications 200 415ms
+22-May-2026 06:26:05 203.0.113.45 DELETE /api/notifications 200 201ms
+21-May-2026 20:38:34 203.0.113.99 PUT /api/products/42 200 216
+2026-05-22T10:29:50Z 198.51.100.12 GET /api/login 200 300
+2026/05/22 10:11:00 203.0.113.45 DELETE /api/logout 500 0.272s
+2026/05/22 19:29:49 203.0.113.99 PUT /api/users/12 200 26
+2026-05-22T00:53:27Z 192.168.1.42 DELETE /api/products 200 0.333s
+2026/05/21 20:40:32 172.16.0.1 DELETE /api/orders 200 0.073s
